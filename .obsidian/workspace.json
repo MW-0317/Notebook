@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 - Notebook/School/Classes/Web and User Expierence/Web and UX Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00 - Notebook/School/Classes/Web and User Expierence/Web and UX Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00 - Notebook/School/Classes/Web and User Expierence/Web and UX Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "00 - Notebook/School/Classes/Web and User Expierence/Web and UX Dashboard.md"
               }
             }
           }
@@ -162,9 +162,28 @@
   },
   "active": "2060d773fb932197",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Untitled.canvas",
+    "00 - Notebook/School/Classes/Web and User Expierence/Web and UX Dashboard.md",
+    "2024-10-22.md",
+    "00 - Notebook/School/Classes/Programming Languages/Programming Languages Dashboard.md",
+    "00 - Notebook/School/Dashboard.md",
+    "00 - Notebook/Notebook.md",
+    "99 - Meta/00 - Maps/Navigation.md",
     "README.md",
-    "Notebook/README.md",
-    "Notebook"
+    "00 - Notebook/School/Classes/Operating Systems/Operating Systems Dashboard.md",
+    "00 - Notebook/School/Classes/Chemistry Fundamentals/Chemistry Dashboard.md",
+    "00 - Notebook/School/Classes/Operating Systems",
+    "00 - Notebook/School/Classes/Programming Languages",
+    "00 - Notebook/School/Classes/Chemistry Fundamentals",
+    "00 - Notebook/School/Classes/Web and User Expierence",
+    "00 - Notebook/School/Classes",
+    "98 - Archives/Previous Semesters",
+    "98 - Archives",
+    "00 - Notebook/School",
+    "Untitled.md",
+    "99 - Meta/00 - Maps",
+    "99 - Meta",
+    "Welcome.md",
+    "Notebook/README.md"
   ]
 }
