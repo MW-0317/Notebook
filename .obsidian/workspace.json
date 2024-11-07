@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Fleeting/Test.md",
+                "file": "02 - Ideas/Programming.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Programming"
             }
           }
         ]
@@ -30,7 +32,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -68,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -107,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -119,7 +131,9 @@
                 "file": "01 - Fleeting/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Test"
             }
           },
           {
@@ -130,7 +144,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,7 +156,9 @@
               "type": "outline",
               "state": {
                 "file": "01 - Fleeting/Test.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test"
             }
           }
         ]
@@ -164,28 +182,36 @@
   },
   "active": "2060d773fb932197",
   "lastOpenFiles": [
+    "97 - Fleeting/Current TODO.md",
+    "02 - Ideas/Programming.md",
+    "00 - Notebook/Home/Grocery/10-31-24.md",
+    "00 - Notebook/Home/Grocery",
+    "00 - Notebook/Home",
+    "97 - Fleeting/Secret Santa 2024.md",
+    "99 - Meta/00 - Maps/Navigation.md",
+    "00 - Notebook/School/Untitled.md",
+    "README.md",
+    "01 - Projects/LunaV2/Design.md",
+    "02 - Ideas/Effect or FX Ideas.md",
+    "00 - Notebook/School/Classes/Operating Systems/Operating Systems Dashboard.md",
+    "02 - Ideas",
+    "00 - Notebook/Personal/Ideas.md",
+    "Untitled.md",
+    "01 - Projects/LunaV2",
+    "01 - Projects",
+    "97 - Fleeting/Test.md",
+    "00 - Notebook/Personal",
     "00 - Notebook/School/Classes/Web and User Expierence/Web and UX Dashboard.md",
-    "01 - Fleeting/Test.md",
     "Untitled.canvas",
     "2024-10-22.md",
     "00 - Notebook/School/Classes/Programming Languages/Programming Languages Dashboard.md",
     "00 - Notebook/School/Dashboard.md",
     "00 - Notebook/Notebook.md",
-    "99 - Meta/00 - Maps/Navigation.md",
-    "README.md",
-    "00 - Notebook/School/Classes/Operating Systems/Operating Systems Dashboard.md",
     "00 - Notebook/School/Classes/Chemistry Fundamentals/Chemistry Dashboard.md",
     "00 - Notebook/School/Classes/Operating Systems",
     "00 - Notebook/School/Classes/Programming Languages",
     "00 - Notebook/School/Classes/Chemistry Fundamentals",
     "00 - Notebook/School/Classes/Web and User Expierence",
-    "00 - Notebook/School/Classes",
-    "98 - Archives/Previous Semesters",
-    "98 - Archives",
-    "00 - Notebook/School",
-    "Untitled.md",
-    "99 - Meta/00 - Maps",
-    "99 - Meta",
     "Welcome.md",
     "Notebook/README.md"
   ]
