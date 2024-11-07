@@ -1,2 +1,6 @@
 - Semaphores
 - Concurrency Bugs
+- Threads
+- Yielding vs. Spinning Locks
+- Deadlocks
+- The Dining Philosopher's Problem
