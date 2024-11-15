@@ -1,0 +1,1 @@
+Some members of the [[Anima Cult]] disagreed with bureaucratic and harsh nature and just wanted a group where furry creatures could live in peace.

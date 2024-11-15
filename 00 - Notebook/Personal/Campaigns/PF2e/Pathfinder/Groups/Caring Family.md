@@ -1,0 +1,7 @@
+Family considered caring by the [[Anima Cult]]. Often does not remind them of their cult, or at least is not allowed to and in doing so will lose the Caring Family status. Caring Families do not know they are a Caring Family and often live their lives as normal and do not know about the cult, but will have ties to them through family or friends. It's very uncommon for a Caring Family to not have a tie to at least one member of the cult.
+## Selection Process
+Members of the cult are often very charismatic and persuasive and will travel to events in large cities to find friends and potential Caring Families.
+1. Once a member finds a candidate they must submit it to the board where they will state their case as to why this family should be given the Caring Family status.
+2. The board must then approve of this candidate before it can be moved forward.
+3. If the board approves it moves onto another process where other members of the cult (also known as [[Watchers]]) must watch over this family as Private Investigators to verify that this family should be given the Caring Family status.
+4. Watchers then bring any evidence they find, for and against, the Caring Family candidate and then the board decides if they should become one.

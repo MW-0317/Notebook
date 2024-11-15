@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Notebook/School/Classes/Operating Systems/Exam 3 Study Guide.md",
+                "file": "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Groups/Watchers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam 3 Study Guide"
+              "title": "Watchers"
             }
           }
         ]
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "53df73d067c786fd",
@@ -182,6 +182,24 @@
   },
   "active": "2060d773fb932197",
   "lastOpenFiles": [
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Groups/Groups.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Groups/Fyrry.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Characters/Characters.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Characters/Miruk (Agent M7).md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Characters/(Para) Alyxis.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Groups/Watchers.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Groups/Caring Family.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Groups/Anima Cult.md",
+    "00 - Notebook/Notebook.md",
+    "00 - Notebook/Personal/Dashboard.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Pathfinder.md",
+    "00 - Notebook/Personal/Campaigns/Campaigns.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Groups",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder/Characters",
+    "00 - Notebook/School/Classes/Operating Systems/Exam 3 Study Guide.md",
+    "00 - Notebook/Personal/Campaigns/PF2e/Pathfinder",
+    "00 - Notebook/Personal/Campaigns/PF2e",
+    "00 - Notebook/Personal/Campaigns",
     "00 - Notebook/School/Classes/Operating Systems/Operating Systems Dashboard.md",
     "97 - Fleeting/Overall todo.md",
     "97 - Fleeting/Movies and Shows to Watch.md",
@@ -189,7 +207,6 @@
     "00 - Notebook/Home/Grocery/10-31-24.md",
     "02 - Ideas/Programming.md",
     "01 - Fleeting",
-    "00 - Notebook/School/Classes/Operating Systems/Exam 3 Study Guide.md",
     "97 - Fleeting/Current TODO.md",
     "00 - Notebook/Home/Grocery",
     "00 - Notebook/Home",
@@ -200,22 +217,7 @@
     "02 - Ideas/Effect or FX Ideas.md",
     "02 - Ideas",
     "00 - Notebook/Personal/Ideas.md",
-    "Untitled.md",
     "01 - Projects/LunaV2",
-    "01 - Projects",
-    "97 - Fleeting/Test.md",
-    "00 - Notebook/Personal",
-    "00 - Notebook/School/Classes/Web and User Expierence/Web and UX Dashboard.md",
-    "Untitled.canvas",
-    "2024-10-22.md",
-    "00 - Notebook/School/Classes/Programming Languages/Programming Languages Dashboard.md",
-    "00 - Notebook/School/Dashboard.md",
-    "00 - Notebook/Notebook.md",
-    "00 - Notebook/School/Classes/Chemistry Fundamentals/Chemistry Dashboard.md",
-    "00 - Notebook/School/Classes/Operating Systems",
-    "00 - Notebook/School/Classes/Programming Languages",
-    "00 - Notebook/School/Classes/Chemistry Fundamentals",
-    "Welcome.md",
-    "Notebook/README.md"
+    "Untitled.canvas"
   ]
 }
