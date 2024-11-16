@@ -3,11 +3,11 @@ Class: Monk
 Species: Rabbitfolk
 ---
 # Names
-**Litter Name**: Parallax
-**Life Name**: Para
-**Warren Name**: 
+**Litter Name**: Parallax;
+**Life Name**: Para;
+**Warren Name**: Unknown
 ### Attempted Experiment
-- Attempted to mutate the speed of a bunny to be faster, saw no immediate increase. Subject to be given to random [[Caring Family]].
+- Attempted to mutate the speed of a bunny to be faster, saw no immediate increase. Subject to be given to selected [[Caring Family]].
 ### Notes
 - Cult didn't see much value in my experimental self, decided to give me to a new family.
 - Don't know my mom or dad besides the title given to my litter.
