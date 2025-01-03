@@ -1,0 +1,4 @@
+- [x] Fix Discord bot crashing
+- [ ] Maybe switch from Spigot to some modded mess
+- [ ] Get Spigot build env to close
+- [ ] Fix Voice chat disable

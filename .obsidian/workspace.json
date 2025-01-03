@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "0a87ba49a5407cf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "90f6b12b1fb6a7cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2060d773fb932197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9fb5917705957cf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9647d9b133308028",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28a4dde5ad4f6e09",
+    "type": "split",
+    "children": [
+      {
+        "id": "f039fc2c9f800606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75f0c0607fd460df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0cc988c195fe6e3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6362681706d853db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "53df73d067c786fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c920d4a9813ad936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce6b459bd78c2cdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Fleeting/Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Test"
+            }
+          },
+          {
+            "id": "44eee8f13d94f9fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Fleeting/Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Test"
+            }
+          },
+          {
+            "id": "aee3feb407f3a0ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "76f7e0676dc9f596",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Fleeting/Test.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "75f0c0607fd460df",
+  "lastOpenFiles": [
+    "Notebook",
+    "97 - Fleeting/Private",
+    "00 - Notebook/Spring2025/Dashboard.md",
+    "00 - Notebook/Spring2025",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Web and User Expierence/Web and UX Dashboard.md",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Programming Languages/Programming Languages Dashboard.md",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Operating Systems/Operating Systems Dashboard.md",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Operating Systems/Exam 3 Study Guide.md",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Chemistry Fundamentals/Chemistry Dashboard.md",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Web and User Expierence",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Programming Languages",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Operating Systems",
+    "98 - Archives/Previous Semesters/Fall2024/Classes/Chemistry Fundamentals",
+    "98 - Archives/Previous Semesters/Fall2024/Dashboard.md",
+    "98 - Archives/Previous Semesters/Fall2024/Classes",
+    "98 - Archives/Previous Semesters/Fall2024",
+    "00 - Notebook/Fall2024/Classes/Web and User Expierence/Web and UX Dashboard.md",
+    "00 - Notebook/Fall2024/Classes/Programming Languages/Programming Languages Dashboard.md",
+    "00 - Notebook/Fall2024/Classes/Operating Systems/Operating Systems Dashboard.md",
+    "00 - Notebook/Fall2024/Classes/Operating Systems/Exam 3 Study Guide.md",
+    "00 - Notebook/Fall2024/Classes/Chemistry Fundamentals/Chemistry Dashboard.md",
+    "00 - Notebook/Fall2024/Classes/Web and User Expierence",
+    "00 - Notebook/Fall2024/Classes/Programming Languages",
+    "00 - Notebook/Fall2024/Dashboard.md",
+    "00 - Notebook/Private/Talks/Mom/12-8-24.md",
+    "00 - Notebook/Home/Grocery/Untitled.md",
+    "00 - Notebook/Home/Grocery/10-31-24.md",
+    "00 - Notebook/Personal/Games/Balatro/Database/Hands/Straight.md",
+    "00 - Notebook/Private/Daily/12-18-24.md",
+    "00 - Notebook/Private/Daily/12-9-24.md",
+    "00 - Notebook/Private/Daily/12-8-24.md",
+    "00 - Notebook/Private/ADHD/Guidebook.md",
+    "00 - Notebook/Personal/Servers/Minecraft/Winter-24-Docker/Playing/House/Basement.canvas",
+    "00 - Notebook/Personal/Servers/Minecraft/Winter-24-Docker/Playing/House/88l3hjy0.bmp",
+    "00 - Notebook/Personal/Games/Balatro/69531UW8 - Among Us.md",
+    "00 - Notebook/Personal/Games/Balatro/Database/Jokers/The Order.md",
+    "01 - Projects/Ideas.md",
+    "00 - Notebook/Personal/Servers/Minecraft/Winter-24-Docker/Playing/Todo.md",
+    "00 - Notebook/Personal/Servers/Minecraft/Winter-24-Docker/Playing/House/bwznhvgc.bmp",
+    "00 - Notebook/Personal/Servers/Minecraft/Winter-24-Docker/Playing/House/px8m39r1.bmp",
+    "Untitled.canvas"
+  ]
+}

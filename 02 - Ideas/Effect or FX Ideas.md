@@ -1,0 +1,1 @@
+- Screen goes black and white, then the remaining white pixels are disintegrated in a specific direction (like a nuke going off)

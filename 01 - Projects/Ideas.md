@@ -1,0 +1,7 @@
+- RPG game like Fallout 3/4
+	- Fun movement
+	- and economy/vendors with scarce resources and money
+- Realistic economy sim
+	- Scarce resources
+	- npcs with "spendability" and "sellability", how much they spend and how much they'd sell, respectively.
+- Modable Hitman (Project 17)
