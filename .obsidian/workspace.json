@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Logs/Campaigns/PF2e/Pathfinder/Quests/Port Korrin Mayor Son Revenge.md",
+                "file": "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Anima Cult/Anima Cult.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Port Korrin Mayor Son Revenge"
+              "title": "Anima Cult"
             }
           }
         ]
@@ -182,11 +182,17 @@
   },
   "active": "2060d773fb932197",
   "lastOpenFiles": [
-    "02 - Logs/Campaigns/PF2e/Pathfinder/Sessions/1-10-25.md",
+    "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Anima Cult/symbol.png",
+    "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Caring Family.md",
     "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Anima Cult/Experiments/E1-R-G0017-Shift.md",
     "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Anima Cult/Experiments/Experiment Naming Convention e1.md",
+    "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Anima Cult/bunny.svg",
+    "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Anima Cult/bunny.png",
+    "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Anima Cult/path292.svg",
     "02 - Logs/Campaigns/PF2e/Pathfinder/Groups/Anima Cult/Anima Cult.md",
+    "Untitled_Artwork.png",
     "02 - Logs/Campaigns/PF2e/Pathfinder/Quests/Port Korrin Mayor Son Revenge.md",
+    "02 - Logs/Campaigns/PF2e/Pathfinder/Sessions/1-10-25.md",
     "02 - Logs/Campaigns/PF2e/Pathfinder/Sessions",
     "02 - Logs/Campaigns/PF2e/Pathfinder/Pathfinder.md",
     "02 - Logs/Campaigns/PF2e/Pathfinder/Characters/(Para) Alyxis.md",
@@ -215,8 +221,6 @@
     "03 - Brainstorm/Minecraft/Winter-24-Docker/Things to Fix or Improve.md",
     "03 - Brainstorm",
     "02 - Logs",
-    "02 - Ideas/Effect or FX Ideas.md",
-    "02 - Ideas/Programming.md",
     "Notebook",
     "03 - Brainstorm/Minecraft/Playing/House/Basement.canvas",
     "03 - Brainstorm/Minecraft/Playing/House/88l3hjy0.bmp",
