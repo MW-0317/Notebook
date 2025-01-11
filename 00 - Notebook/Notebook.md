@@ -1,4 +1,2 @@
 ## School
-[[00 - Notebook/School/Dashboard]]
-## Personal
-[[00 - Notebook/Personal/Dashboard]]
+[[00 - Notebook/Spring2025/Dashboard|Dashboard]]

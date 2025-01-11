@@ -10,7 +10,7 @@ Species: Rabbitfolk
 **Life Name**: Para;
 **Warren Name**: Unknown
 ### Attempted Experiment
-- [[E1-RG0017-Shift]]
+- [[E1-R-G0017-Shift]]
 - Attempted to mutate the speed of a bunny to be faster, saw no immediate increase. Subject to be given to selected [[Caring Family]].
 ### Notes
 - Cult didn't see much value in my experimental self, decided to give me to a new family.

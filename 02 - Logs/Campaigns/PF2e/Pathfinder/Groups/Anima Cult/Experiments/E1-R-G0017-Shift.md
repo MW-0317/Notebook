@@ -1,6 +1,8 @@
 ---
 Magical Mutation: None
 Gene Modification Type: Improvement
+Project: Parallax
+Codename: Shift
 ---
 ### Hypothesis
 By modifying specific parts of the genomes that make up the legs and feet it should be possible to create a rabbitfolk that is faster than most and even possible for one to cross the speed of a cheetah. Rabbitfolk are small and light creatures and it is most certainly possible to make them faster.

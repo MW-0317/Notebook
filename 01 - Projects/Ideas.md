@@ -5,3 +5,7 @@
 	- Scarce resources
 	- npcs with "spendability" and "sellability", how much they spend and how much they'd sell, respectively.
 - Modable Hitman (Project 17)
+- Bot that renders 3D stuff and streams it on Discord. Can also have it stream TV shows and movies.
+- Voting website for "Most likely to..."
+- Screen goes black and white, then the remaining white pixels are disintegrated in a specific direction (like a nuke going off)
+	- https://youtube.com/clip/Ugkxz71nN-DuyOGB6RqbXvafxT0M7sFIpwwY?si=-zxkEmnM_1PMxIVJ
