@@ -1,3 +1,9 @@
 {
-  "accentColor": "#ff80ff"
+  "accentColor": "#ff80ff",
+  "enabledCssSnippets": [
+    "Notebook",
+    "Cain"
+  ],
+  "theme": "system",
+  "textFontFamily": ""
 }

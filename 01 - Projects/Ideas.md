@@ -9,3 +9,6 @@
 - Voting website for "Most likely to..."
 - Screen goes black and white, then the remaining white pixels are disintegrated in a specific direction (like a nuke going off)
 	- https://youtube.com/clip/Ugkxz71nN-DuyOGB6RqbXvafxT0M7sFIpwwY?si=-zxkEmnM_1PMxIVJ
+- Pool roguelike
+	- Can modify specific balls like how Balatro allows modification of cards
+- Remaking popular game shows in Godot
