@@ -12,3 +12,4 @@
 - Pool roguelike
 	- Can modify specific balls like how Balatro allows modification of cards
 - Remaking popular game shows in Godot
+- Remaking the style of Balatro to make a template for other card games (maybe multiplayer)

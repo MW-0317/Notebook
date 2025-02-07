@@ -1,0 +1,4 @@
+- GitHub Organization
+- Research and Writing
+- Documentation
+- Jira

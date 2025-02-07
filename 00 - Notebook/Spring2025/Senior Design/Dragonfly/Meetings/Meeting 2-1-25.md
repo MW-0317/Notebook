@@ -1,0 +1,58 @@
+# Agenda
+- Future communication
+	- Repeating meeting time and day of the week
+- Hardware
+	- Will we have access to the hardware?
+	- Is the documentation or example projects built on the hardware?
+	- What are the hardware specs?
+	- Are we valuing realism or performance?
+		- For example, realistic visibility (bad sandstorm removing visibility) and methane fluids, should they be as realistic as possible? Or more gamified that feels accurate?
+			- Full fluid sims are expensive and illusion of realism would be better here.
+- Design
+	- Do you have any design documents?
+		- Gameplay loop
+	- Is movement the only gameplay?
+	- Might there be sample collection or spectrometer processing minigames?
+	- How does unlockable areas work?
+		- Will there be an upgrade system to allow areas to be unlocked?
+	- Any prototypes?
+	- Are the controls on one screen and the gameplay on another? Or is it all on one screen?
+	- Will the drone be able to take damage? From asteroid showers, cold weather from methane rain, or from strong winds?
+		- If so what happens when the health is zero or negative?
+	- "methane rain, low visibility, strong winds, and asteroid showers"
+		- How might these look/act?
+	- Wind and weather simulations? (Will there be extreme weather events like wind storms?)
+	- How might temperature work with how cold the planet is? Will the player need to keep track how cold the drone is?
+	- How might the power management system work?
+		- How might the player be able to divert power?
+	- Since biomes were mentioned, how might they work? Will each have their own mechanical differences?
+	- Will we also model the initial landing of the drone? A "aeroshell and parachute descent"
+		- https://dragonfly.jhuapl.edu/News-and-Resources/docs/34_03-Lorenz.pdf
+	- How might the controls look?
+		- Coordinates system? Like a map?
+		- Touch screen slider UI?
+		- Is the landing procedure automatic?
+	- Will there be a definitive win or end state?
+- Assets
+	- Map, do we have access to a heightmap? Topological map?
+		- How large might the map be?
+	- SFX
+		- Are those provided?
+	- Models and Textures
+		- What models and textures are provided?
+		- Are there variants of models and props? Such as boulders
+	- Shaders
+		- Are any shaders provided besides engine default ones?
+		- example: atmospheric scattering/atmosphere shader to provide a realistic atmosphere, video example: https://www.youtube.com/watch?v=DxfEbulyFcY
+	- VFX
+		- Will you be providing VFX?
+		- example: sandstorm visuals, methane rain visuals
+		- If not, will particle/vfx textures be provided?
+	- Animations
+		- What animations are needed/are given?
+		- Will assistance be provided if we need to make our own?
+- What is the end goal of the project? In a science museum?
+	- Is there a plan to get this project into a science museum? Or whats the current plan?
+# Notes
+- Player has map on screen
+- Documentation is necessary
