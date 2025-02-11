@@ -1,9 +1,9 @@
 ---
-Class: Monk
-Species: Rabbitfolk
 tags:
   - TTRPG/Character
   - TTRPG/Anima
+  - TTRPG/DnD/Classes/Monk
+  - TTRPG/DnD/Species/Rabbitfolk
 ---
 - 5' 2"
 - Bright Emerald Eyes

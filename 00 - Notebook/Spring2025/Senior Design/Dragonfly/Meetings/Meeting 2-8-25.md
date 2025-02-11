@@ -1,0 +1,12 @@
+- Resources given
+- Project so far
+	- Unity project set up
+	- GitHub set up
+- Want to ensure requirements are appropriate so we're waiting on our professors to release an assignment that'll help us better understand how to scope better
+	- Could ask Sebastion if this is worth waiting or what'll help us
+- Current plans
+	- Skybox
+	- LOD
+	- AI and pathfinding
+	- State machines
+	- Working in Git and GitHub with individual branches and unity scenes

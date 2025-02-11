@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "7a0ca962185dfd23",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ae994a2efa0ec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b87e3fe13bd2a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anima/Groups/Anima Cult/Experiments/E1-ES-T0083-Hazel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E1-ES-T0083-Hazel"
+            }
+          }
+        ]
+      },
+      {
+        "id": "35c5b1cc2c3b8c5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0ef6961a44a0ec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anima/DnD/Species/Satyr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Satyr"
+            }
+          },
+          {
+            "id": "dffe4b273a634992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anima/DnD/Classes/Druid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Druid"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d5dfcdb7ab307b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca1e8c3ade37244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a449b6aeee48ca90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "470a12b71e9cfb5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9a72cdaf4643f6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aacc8d44ebdb93f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c172b241b9695c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f4e3dac5a8cc27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anima/Groups/Anima Cult/Experiments/E1-ES-T0083-Hazel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for E1-ES-T0083-Hazel"
+            }
+          },
+          {
+            "id": "4c8c7d3d9d2e3443",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anima/Groups/Anima Cult/Experiments/E1-ES-T0083-Hazel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from E1-ES-T0083-Hazel"
+            }
+          },
+          {
+            "id": "c81f7ff0b82f50b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c8bbd97278ea758",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anima/Groups/Anima Cult/Experiments/E1-ES-T0083-Hazel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of E1-ES-T0083-Hazel"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3b87e3fe13bd2a81",
+  "lastOpenFiles": [
+    "Anima/Groups/Anima Cult/Experiments/E1-R-G0017-Shift.md",
+    "Anima/Groups/Anima Cult/Experiments/E1-ES-T0083-Hazel.md",
+    "Anima/Groups/Anima Cult/Experiments/Experiment Naming Convention e1.md",
+    "Anima/Characters/Hazel.md",
+    "Anima/Characters/(Para) Alyxis.md",
+    "Anima/DnD/Species/Satyr.md",
+    "Anima/DnD/Classes/Druid.md",
+    "PF2e/Characters/Kasym Felix Jr.md",
+    "PF2e/Characters/Gorguk Toz.md",
+    "Anima/Groups/Watchers.md",
+    "Anima/Groups/Groups.md",
+    "Anima/Groups/Fyrry.md",
+    "Anima/Groups/Caring Family.md",
+    "Anima/Groups/Anima Cult/Anima Cult.md",
+    "Anima/Characters/Template.md",
+    "Anima/Characters/Miruk (Agent M7).md",
+    "Anima/Characters/Freya Stahp.md",
+    "Anima/Characters/Characters.md",
+    "Anima/Characters/Artis.md",
+    "^^asi.md",
+    "^asi.md",
+    "Anima/DnD/Species",
+    "Anima/DnD/Classes/Druid",
+    "Anima/DnD/Classes",
+    "Anima/DnD",
+    "Anima/Resources"
+  ]
+}
